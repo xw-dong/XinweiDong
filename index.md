@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+<!-- ## Welcome -->
 
-You can use the [editor on GitHub](https://github.com/xw-dong/xwdong.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome! I am a Ph.D. student at the Graduate School of Economics, the University of Tokyo. I work on topics in labor economics from applied microeconomics prospectives, with a focus on family issues in the Chinese context.   
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Email: xwdong@g.ecc.u-tokyo.ac.jp  
 
-### Markdown
+You can find my cv as pdf [here](https://drive.google.com/file/d/1VedH1-s6LjRdiK-QbTbDy0ZTWGW6lOqD/view?usp=sharing).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Education
 
-```markdown
-Syntax highlighted code block
+- 2019 -  Ph.D. Student, Graduate School of Economics, The University of Tokyo
+- 2019    M.A. in Economics, The University of Tokyo
+- 2017    B.A. in Economics, Renmin University of China
+- 2017    B.S. in Applied Mathematics, Renmin University of China
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xw-dong/xwdong.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Research
+#### Publication
+- Xinwei Dong (2020). "[Effect of birth interval on the first child’s nutrition status: Evidence from China.](https://doi.org/10.1016/j.labeco.2020.101909)" Labour Economics, 67.
+#### Working Paper
+- "Intrahousehold Property Ownership, Women's Bargaining Power, and Family Structure" *Under review*
