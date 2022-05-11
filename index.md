@@ -18,4 +18,3 @@ You can find my cv as pdf [here](https://drive.google.com/file/d/1VedH1-s6LjRdiK
 - Xinwei Dong (2020). "[Effect of birth interval on the first child’s nutrition status: Evidence from China.](https://doi.org/10.1016/j.labeco.2020.101909)" Labour Economics, 67.
 #### Working Paper
 - "Intrahousehold Property Ownership, Women's Bargaining Power, and Family Structure" *Under review*
-
